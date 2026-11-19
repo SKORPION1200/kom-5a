@@ -10,6 +10,8 @@ KOM-5A donne aux créateurs, aux professionnels indépendants et aux petites ent
 
 [Découvrir la plateforme](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=project_readme_fr) · [Suivre le parcours produit](docs/product-tour.md) · [Partenariats et présentation du projet](docs/partners.md)
 
+[Voir le parcours Web actuel — 65 secondes](docs/demo.md)
+
 [iOS](https://apps.apple.com/ch/app/kom-5a/id6756894425) · [Android](https://play.google.com/store/apps/details?id=com.kom5a.mobile) · [À propos de KOM-5A](https://kom-5a.com/about)
 
 ## Un point de départ concret

@@ -2,6 +2,8 @@
 
 [Français](../README.fr.md) · [English](../README.md) · [Partenariats / Partnerships](partners.md)
 
+[Voir le parcours Web du 19 novembre 2026 — 65 s / Watch the 19 November 2026 web walkthrough — 65 s](demo.md)
+
 ## Commencer par l'accueil / Start with the welcome page
 
 [Découvrir KOM-5A sur le Web / Discover KOM-5A on the web](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=product_tour)
