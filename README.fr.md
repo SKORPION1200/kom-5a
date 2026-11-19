@@ -4,19 +4,31 @@
 
 ![KOM-5A — Produits, services et communauté](assets/cover.svg)
 
-**Découvrez des produits, des services et les personnes qui les proposent.**
+**Présentez vos produits et services. Découvrez les personnes derrière chaque offre.**
 
-KOM-5A réunit des outils de publication, de découverte, de visibilité professionnelle et d'échange au sein d'une communauté. Explorez la plateforme sur le Web et poursuivez votre expérience sur iOS ou Android. Les fonctionnalités accessibles dépendent notamment du compte, du pays, de l'éligibilité et des conditions applicables.
+KOM-5A donne aux créateurs, aux professionnels indépendants et aux petites entreprises un espace pour présenter une offre avec des images et des informations utiles. Les visiteurs peuvent découvrir les publications, consulter le profil de leur créateur et utiliser les moyens de contact proposés. La plateforme réunit publication, découverte et échanges sur le Web, iOS et Android. Les fonctionnalités accessibles dépendent notamment du compte, du pays, de l'éligibilité et des conditions applicables.
 
-[Découvrir KOM-5A](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=project_readme_fr) · [À propos](https://kom-5a.com/about) · [iOS](https://apps.apple.com/ch/app/kom-5a/id6756894425) · [Android](https://play.google.com/store/apps/details?id=com.kom5a.mobile)
+[Découvrir la plateforme](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=project_readme_fr) · [Suivre le parcours produit](docs/product-tour.md) · [Partenariats et présentation du projet](docs/partners.md)
+
+[iOS](https://apps.apple.com/ch/app/kom-5a/id6756894425) · [Android](https://play.google.com/store/apps/details?id=com.kom5a.mobile) · [À propos de KOM-5A](https://kom-5a.com/about)
+
+## Un point de départ concret
+
+| Votre objectif | Ce que vous pouvez essayer |
+| --- | --- |
+| Présenter un produit ou un service | Préparez les images, la description et les détails utiles avec le [guide de publication](docs/listing-guide.md), puis consultez les options accessibles à votre compte |
+| Comprendre une offre | Ouvrez sa publication, lisez les détails et consultez le profil de son créateur avant d'utiliser un moyen de contact disponible |
+| Évaluer un partenariat avec KOM-5A | Consultez la [présentation du projet](docs/partners.md), puis demandez une démonstration ciblée par le canal de contact officiel |
+
+Le [parcours produit](docs/product-tour.md) explique ces étapes et les accès Web et mobile. Il décrit les fonctions de la plateforme sans présenter un résultat client ou une vente réalisée.
 
 ## Pour commencer
 
 | Votre objectif | Point de départ |
 | --- | --- |
-| Découvrir des produits, des services et des publications publiques | [Explorer sur le Web](https://kom-5a.com/explore) |
+| Découvrir la plateforme avant de parcourir les publications | [Ouvrir l'accueil public](https://kom-5a.com/) |
 | En savoir plus sur un créateur ou une entreprise | Ouvrez une publication et consultez son profil sur KOM-5A |
-| Présenter votre activité | [Rejoignez KOM-5A](https://kom-5a.com/register) et consultez les options de publication proposées à votre compte |
+| Présenter votre activité | Depuis l'[accueil officiel](https://kom-5a.com/), choisissez l'inscription ou l'application de votre appareil |
 | Comprendre K5A | Consultez [l'explication de K5A](docs/k5a.md) et les [conditions des services](https://kom-5a.com/service-terms?lang=en) |
 
 Les guides [Premiers pas](docs/getting-started.md) et [Bien présenter une publication](docs/listing-guide.md) sont actuellement rédigés en anglais.

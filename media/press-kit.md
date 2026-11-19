@@ -22,7 +22,7 @@ KOM-5A est une plateforme de découverte et de publication pour les produits, le
 
 Un produit vous intéresse ? Découvrez aussi la personne qui le propose. Explorez les produits, les services et les profils de la communauté KOM-5A.
 
-[Explorer KOM-5A](https://kom-5a.com/explore?utm_source=github&utm_medium=referral&utm_campaign=media_kit&utm_content=fr_discovery)
+[Découvrir KOM-5A](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=media_kit&utm_content=fr_discovery)
 
 **Publication**
 
@@ -54,7 +54,7 @@ KOM-5A brings product and service discovery together with publishing, public pro
 
 Found something that interests you? Discover the person behind it too. Explore products, services and public profiles from the KOM-5A community.
 
-[Explore KOM-5A](https://kom-5a.com/explore?utm_source=github&utm_medium=referral&utm_campaign=media_kit&utm_content=en_discovery)
+[Discover KOM-5A](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=media_kit&utm_content=en_discovery)
 
 **Publishing**
 

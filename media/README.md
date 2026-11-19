@@ -4,9 +4,9 @@
 
 Pour diffuser ces ressources : [liens de partage, aperçu et annonce FR/EN](share-guide.md).
 
-Des images pour présenter la plateforme en **mode clair et en mode sombre**, avec leur contexte. Ces fichiers ont été fournis par KOM-5A et relus pour cette publication le **19 novembre 2026**. Les captures ci-dessous datent du **2 au 8 novembre 2026**, selon les noms des fichiers fournis ; chaque légende précise sa date. Elles illustrent l'interface à cette période ; les écrans et conditions actuels peuvent évoluer.
+Des images pour présenter la plateforme et son application en **mode clair et en mode sombre**, avec leur contexte. Les captures iPhone fournies par KOM-5A datent du **2 au 8 novembre 2026**, selon les noms des fichiers ; chaque légende précise sa date. Les visuels issus de la fiche Google Play sont identifiés séparément et leur date de capture d'origine n'est pas établie. Relecture pour cette publication : **19 novembre 2026**. Les écrans et conditions actuels peuvent évoluer.
 
-Images for introducing the platform in **light and dark mode**, with context. The supplied screenshots are dated **2–8 November 2026** by their original filenames, with individual dates in the captions, and were reviewed for this publication on **19 November 2026**. They illustrate that interface at that time; current screens and conditions may differ.
+Images for introducing the platform and app in **light and dark mode**, with context. Supplied iPhone screenshots are dated **2–8 November 2026** by their original filenames, with individual dates in the captions. Official store images are identified separately; their original capture date is unknown. Reviewed for this publication on **19 November 2026**. Current screens and conditions may differ.
 
 ## Bannière / Banner
 
@@ -15,6 +15,21 @@ Images for introducing the platform in **light and dark mode**, with context. Th
 [Télécharger le SVG / Download SVG](../assets/cover.svg). Illustration de présentation, distincte d'une capture de l'application. Format : 1280 × 480.
 
 ## Captures de l'application / App screenshots
+
+### Accueil et fiche produit / Welcome and listing
+
+<table>
+  <tr>
+    <td align="center"><img src="store/welcome.jpg" width="230" alt="Accueil de l'application KOM-5A diffusé sur la fiche Google Play" /></td>
+    <td align="center"><img src="store/listing-detail.jpg" width="230" alt="Exemple historique de fiche produit KOM-5A diffusé sur Google Play" /></td>
+  </tr>
+  <tr>
+    <td><strong>Accueil mobile / Mobile welcome</strong><br />Écran d'entrée avant connexion ; aperçu public en chargement.</td>
+    <td><strong>Consultation / Listing detail</strong><br />Exemple historique : prix, échéance et textes de l'annonce ne constituent pas une offre actuelle ou une preuve de vente.</td>
+  </tr>
+</table>
+
+Visuels de la [fiche Google Play officielle](https://play.google.com/store/apps/details?id=com.kom5a.mobile), consultée le **19 novembre 2026** ; date de capture et version d'origine non établies. Official store images reviewed on **19 November 2026**, with original capture date and build unknown. [Sources et contexte / Sources and context](store/SOURCES.md) · [Parcours produit / Product tour](../docs/product-tour.md).
 
 ### Mode clair / Light mode
 

@@ -12,7 +12,11 @@
 
 Les boutiques affichent la disponibilité, la compatibilité, la version et les informations propres à votre région et à votre appareil. Cette page ne fixe pas de numéro de version commun à toutes les plateformes.
 
+Pour une première visite, commencez par l'accueil public, puis choisissez le Web ou la boutique de votre appareil. Le [parcours produit](product-tour.md) présente les étapes à examiner dans l'application.
+
 The stores show availability, compatibility, version details and information for your region and device. This page does not assert that all platforms offer the same version.
+
+For a first visit, start with the public welcome page and then choose the web or your device's store. The [product tour](product-tour.md) explains the steps to review in the app.
 
 ## Découvrir et publier / Discover and publish
 
