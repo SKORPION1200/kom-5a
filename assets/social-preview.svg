@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title description">
+  <title id="title">KOM-5A public project documentation</title>
+  <desc id="description">Discover products, services and the people behind them. Guides, app links and media at github.com/SKORPION1200/kom-5a.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10051d"/><stop offset="0.58" stop-color="#28104a"/><stop offset="1" stop-color="#4b1689"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffdb00"/><stop offset="1" stop-color="#f6b800"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <circle cx="1170" cy="-20" r="280" fill="#ffd400" opacity="0.09"/>
+  <circle cx="1130" cy="600" r="360" fill="#b34afa" opacity="0.12"/>
+  <circle cx="-60" cy="680" r="260" fill="#a84aff" opacity="0.1"/>
+  <rect x="72" y="80" width="100" height="7" rx="3.5" fill="url(#gold)"/>
+  <text x="72" y="135" fill="#d9c9eb" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" letter-spacing="3">PUBLIC PROJECT DOCUMENTATION</text>
+  <text x="65" y="280" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="112" font-weight="800" letter-spacing="-5">KOM-5A</text>
+  <text x="73" y="344" fill="#ffd900" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700">Products · Services · People</text>
+  <text x="73" y="399" fill="#efe6f5" font-family="Arial,Helvetica,sans-serif" font-size="24">Discover the people behind what you find.</text>
+  <text x="73" y="441" fill="#cbb6dd" font-family="Arial,Helvetica,sans-serif" font-size="21">Guides · Official app links · Media</text>
+  <rect x="72" y="501" width="291" height="58" rx="18" fill="url(#gold)"/>
+  <text x="98" y="539" fill="#240a3a" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">kom-5a.com</text>
+  <g transform="translate(825 195)">
+    <rect width="350" height="290" rx="31" fill="#160923" stroke="#facb00" stroke-opacity="0.5" stroke-width="2"/>
+    <rect x="25" y="25" width="300" height="94" rx="20" fill="#35125e"/>
+    <circle cx="70" cy="72" r="22" fill="#ffcf00"/>
+    <rect x="110" y="52" width="150" height="13" rx="6" fill="#ffffff" opacity="0.92"/>
+    <rect x="110" y="80" width="105" height="10" rx="5" fill="#bfaacb"/>
+    <rect x="25" y="137" width="143" height="127" rx="20" fill="#4a1888"/>
+    <rect x="185" y="137" width="140" height="127" rx="20" fill="#35125e"/>
+    <circle cx="97" cy="181" r="24" fill="#ffd900"/>
+    <rect x="52" y="225" width="90" height="10" rx="5" fill="#ffffff" opacity="0.85"/>
+    <circle cx="255" cy="181" r="24" fill="#b877f1"/>
+    <rect x="211" y="225" width="88" height="10" rx="5" fill="#ffffff" opacity="0.85"/>
+  </g>
+</svg>

@@ -2,6 +2,8 @@
 
 [Français](../README.fr.md) · [English](../README.md) · [Textes FR/EN](press-kit.md) · [Applications](../docs/apps.md)
 
+Pour diffuser ces ressources : [liens de partage, aperçu et annonce FR/EN](share-guide.md).
+
 Des images pour présenter la plateforme en **mode clair et en mode sombre**, avec leur contexte. Ces fichiers ont été fournis par KOM-5A et relus pour cette publication le **19 novembre 2026**. Les captures ci-dessous datent du **2 au 8 novembre 2026**, selon les noms des fichiers fournis ; chaque légende précise sa date. Elles illustrent l'interface à cette période ; les écrans et conditions actuels peuvent évoluer.
 
 Images for introducing the platform in **light and dark mode**, with context. The supplied screenshots are dated **2–8 November 2026** by their original filenames, with individual dates in the captions, and were reviewed for this publication on **19 November 2026**. They illustrate that interface at that time; current screens and conditions may differ.
