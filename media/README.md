@@ -2,9 +2,9 @@
 
 [Français](../README.fr.md) · [English](../README.md) · [Textes FR/EN](press-kit.md) · [Applications](../docs/apps.md)
 
-Des images pour présenter la plateforme, avec leur contexte. Ces fichiers ont été fournis par KOM-5A et relus pour cette publication le **19 novembre 2026**. Les captures ci-dessous datent du **8 novembre 2026**, selon les noms des fichiers fournis. Elles illustrent cette version de l'interface ; les écrans et conditions actuels peuvent évoluer.
+Des images pour présenter la plateforme en **mode clair et en mode sombre**, avec leur contexte. Ces fichiers ont été fournis par KOM-5A et relus pour cette publication le **19 novembre 2026**. Les captures ci-dessous datent du **2 au 8 novembre 2026**, selon les noms des fichiers fournis ; chaque légende précise sa date. Elles illustrent l'interface à cette période ; les écrans et conditions actuels peuvent évoluer.
 
-Images for introducing the platform, with context. The supplied screenshots are dated **8 November 2026** by their original filenames and were reviewed for this publication on **19 November 2026**. They illustrate that interface at that time; current screens and conditions may differ.
+Images for introducing the platform in **light and dark mode**, with context. The supplied screenshots are dated **2–8 November 2026** by their original filenames, with individual dates in the captions, and were reviewed for this publication on **19 November 2026**. They illustrate that interface at that time; current screens and conditions may differ.
 
 ## Bannière / Banner
 
@@ -13,6 +13,33 @@ Images for introducing the platform, with context. The supplied screenshots are 
 [Télécharger le SVG / Download SVG](../assets/cover.svg). Illustration de présentation, distincte d'une capture de l'application. Format : 1280 × 480.
 
 ## Captures de l'application / App screenshots
+
+### Mode clair / Light mode
+
+Captures originales de l'application en mode clair. Les fichiers n'ont pas été recolorés.
+
+Original light-mode app screenshots. These files have not been recoloured.
+
+<table>
+  <tr>
+    <td align="center"><img src="screens/languages-light-fr-2026-11-06.png" width="210" alt="Sélection de la langue dans le profil KOM-5A en mode clair, capture du 6 novembre 2026" /></td>
+    <td align="center"><img src="screens/publish-photos-light-fr-2026-11-07.png" width="210" alt="Étape Photos du formulaire Publier un produit KOM-5A en mode clair, capture du 7 novembre 2026" /></td>
+    <td align="center"><img src="screens/app-lock-light-fr-2026-11-02.png" width="210" alt="Configuration de la vérification de sécurité KOM-5A en mode clair, capture du 2 novembre 2026" /></td>
+  </tr>
+  <tr>
+    <td><strong>Langues / Languages</strong><br />6 novembre 2026. Écran de choix de la langue de l'application dans le profil.</td>
+    <td><strong>Publication / Publishing</strong><br />7 novembre 2026. Formulaire vide à l'étape Photos, avec le message de validation avant publication.</td>
+    <td><strong>Configuration de sécurité / Security setup</strong><br />2 novembre 2026. Choix de configuration du verrouillage de l'application ; l'écran ne montre pas une protection déjà activée.</td>
+  </tr>
+</table>
+
+- [Langues / Languages — PNG 1206 × 2622](screens/languages-light-fr-2026-11-06.png)
+- [Publication, étape Photos / Publishing, Photos step — PNG 1206 × 2622](screens/publish-photos-light-fr-2026-11-07.png)
+- [Configuration de sécurité / Security setup — PNG 1206 × 2622](screens/app-lock-light-fr-2026-11-02.png)
+
+These dated screens illustrate language selection, the empty product-photo form with its validation message, and optional App Lock setup. The setup screen does not establish that App Lock is enabled or that the platform has been audited or certified.
+
+### Mode sombre / Dark mode
 
 <table>
   <tr>
