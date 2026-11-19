@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title description">
+  <title id="title">KOM-5A</title>
+  <desc id="description">Discover products and services. Meet the people behind them.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10051d"/>
+      <stop offset="0.56" stop-color="#28104a"/>
+      <stop offset="1" stop-color="#4b1689"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd900"/>
+      <stop offset="1" stop-color="#f6b800"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="480" fill="url(#background)"/>
+  <circle cx="1170" cy="-24" r="260" fill="#ffce00" opacity="0.1"/>
+  <circle cx="1080" cy="410" r="360" fill="#b34afa" opacity="0.12"/>
+  <circle cx="-40" cy="480" r="180" fill="#a84aff" opacity="0.12"/>
+  <rect x="66" y="68" width="130" height="8" rx="4" fill="url(#glow)"/>
+  <text x="64" y="212" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="100" font-weight="800" letter-spacing="-5">KOM-5A</text>
+  <text x="70" y="273" fill="#ffd900" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="700">Products · Services · People</text>
+  <text x="70" y="324" fill="#e9dff3" font-family="Arial, Helvetica, sans-serif" font-size="23">Explore ideas and meet the people behind them.</text>
+  <rect x="70" y="372" width="314" height="58" rx="18" fill="url(#glow)"/>
+  <text x="100" y="410" fill="#240a3a" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">kom-5a.com</text>
+  <g transform="translate(798 96)">
+    <rect width="360" height="292" rx="32" fill="#160923" stroke="#facb00" stroke-opacity="0.45" stroke-width="2"/>
+    <rect x="26" y="26" width="308" height="96" rx="20" fill="#35125e"/>
+    <circle cx="72" cy="74" r="22" fill="#ffcf00"/>
+    <rect x="112" y="54" width="152" height="13" rx="6" fill="#ffffff" opacity="0.9"/>
+    <rect x="112" y="81" width="105" height="10" rx="5" fill="#bfaacb"/>
+    <rect x="26" y="140" width="148" height="126" rx="20" fill="#4a1888"/>
+    <rect x="191" y="140" width="143" height="126" rx="20" fill="#35125e"/>
+    <circle cx="100" cy="183" r="24" fill="#ffd900" opacity="0.92"/>
+    <rect x="53" y="224" width="92" height="10" rx="5" fill="#ffffff" opacity="0.84"/>
+    <circle cx="262" cy="183" r="24" fill="#b877f1"/>
+    <rect x="218" y="224" width="88" height="10" rx="5" fill="#ffffff" opacity="0.84"/>
+  </g>
+</svg>
