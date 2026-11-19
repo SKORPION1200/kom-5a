@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Account, payment or privacy support
+    url: https://kom-5a.com/contact
+    about: Contact KOM-5A privately through the official website.
+  - name: Report a security vulnerability
+    url: https://github.com/SKORPION1200/kom-5a/security/advisories/new
+    about: Send security findings privately, never in a public issue.
