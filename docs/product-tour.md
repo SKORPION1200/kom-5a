@@ -58,4 +58,4 @@ Pour évaluer un cas d'usage professionnel, [contactez KOM-5A](https://kom-5a.co
 
 To review a professional use case, [contact KOM-5A](https://kom-5a.com/contact) with the type of offer, country and workflow you want to examine. A demonstration should use authorised content and information suitable for sharing.
 
-Sources publiques relues le **19 novembre 2026** : [accueil](https://kom-5a.com/), [présentation](https://kom-5a.com/about), [conditions des services](https://kom-5a.com/service-terms?lang=en). Les captures sont datées individuellement ; aucun indicateur commercial n'est déduit de ces images.
+Sources publiques relues le **19 novembre 2026** : [accueil](https://kom-5a.com/), [présentation](https://kom-5a.com/about), [conditions des services](https://kom-5a.com/service-terms?lang=en). Les captures fournies sont datées individuellement ; la date de capture d'origine des visuels de boutique n'est pas établie. Aucun indicateur commercial n'est déduit de ces images.
