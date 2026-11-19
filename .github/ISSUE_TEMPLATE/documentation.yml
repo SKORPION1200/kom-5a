@@ -1,0 +1,30 @@
+name: Documentation correction
+description: Report an error or suggest a clearer explanation in this public repository.
+title: "Docs: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form is for public documentation only. Do not include personal data, account details, credentials or security vulnerabilities. Use the official contact page for support and SECURITY.md for private security reports.
+  - type: input
+    id: page
+    attributes:
+      label: Page or link
+      description: Which document needs a correction?
+      placeholder: docs/k5a.md
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What should change?
+      description: Describe the current wording and the correction you suggest.
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Public source, if applicable
+      description: Link to an official source supporting a factual change.
+    validations:
+      required: false
