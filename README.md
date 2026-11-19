@@ -4,19 +4,31 @@
 
 ![KOM-5A — Products, services and people](assets/cover.svg)
 
-**Discover products, services and the people behind them.**
+**Present your products and services. Discover the people behind what you find.**
 
-KOM-5A is a platform for publishing, product and service discovery, professional visibility and community interaction. People can explore on the web and continue on iOS or Android. Features depend on the account, location, eligibility and applicable terms.
+KOM-5A gives creators, independent professionals and small businesses a place to present an offer with images and practical details, while visitors can discover publications, view their creators and use the contact options available. The platform combines publishing, discovery and community interaction on the web, iOS and Android. Features depend on the account, location, eligibility and applicable terms.
 
-[Explore KOM-5A](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=project_readme) · [About the platform](https://kom-5a.com/about) · [iOS](https://apps.apple.com/ch/app/kom-5a/id6756894425) · [Android](https://play.google.com/store/apps/details?id=com.kom5a.mobile)
+[Discover the platform](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=project_readme) · [Follow the product tour](docs/product-tour.md) · [Partnerships and project review](docs/partners.md)
+
+[iOS](https://apps.apple.com/ch/app/kom-5a/id6756894425) · [Android](https://play.google.com/store/apps/details?id=com.kom5a.mobile) · [About KOM-5A](https://kom-5a.com/about)
+
+## A simple starting point
+
+| You want to… | What to try |
+| --- | --- |
+| Present a product or service | Prepare images, a clear description and the relevant details using the [listing guide](docs/listing-guide.md), then check the publishing options available to your account |
+| Understand an offer | Open its publication, read the details and view the creator's profile before using an available contact option |
+| Evaluate KOM-5A as a partner | Start with the [project overview and discussion topics](docs/partners.md), then request a focused demonstration through the official contact channel |
+
+The [product tour](docs/product-tour.md) explains this journey and the official web and mobile entry points. It describes product functions, without claiming a customer outcome or a completed sale.
 
 ## What you can do
 
 | Goal | Start here |
 | --- | --- |
-| Discover products, services and public posts | [Explore on the web](https://kom-5a.com/explore) |
+| Discover the platform before browsing | [Open the public welcome page](https://kom-5a.com/) |
 | Learn about a creator or business | Open a listing and view its profile in KOM-5A |
-| Present your own work | [Join KOM-5A](https://kom-5a.com/register) and check the publishing options available to your account |
+| Present your own work | Start from the [official welcome page](https://kom-5a.com/) and choose Join or the app for your device |
 | Learn how K5A works | Read [K5A explained](docs/k5a.md) and the [current service terms](https://kom-5a.com/service-terms?lang=en) |
 
 For a short walkthrough, see [Getting started](docs/getting-started.md). If you publish, our [practical listing guide](docs/listing-guide.md) can help you describe a product or service clearly.

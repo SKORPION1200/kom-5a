@@ -8,6 +8,8 @@
 | --- | --- |
 | Comprendre le projet / Project overview | [KOM-5A on GitHub](https://github.com/SKORPION1200/kom-5a) |
 | Présentation française | [README français](https://github.com/SKORPION1200/kom-5a/blob/main/README.fr.md) |
+| Suivre le parcours produit / Follow the product journey | [Accueil, publication, découverte et contact](../docs/product-tour.md) |
+| Proposer un soutien ou un partenariat / Discuss support or a partnership | [Construire avec KOM-5A](../docs/partners.md) |
 | Illustrer une présentation / Illustrate an article | [Galerie claire et sombre](https://github.com/SKORPION1200/kom-5a/tree/main/media) |
 | Préparer un texte / Prepare copy | [Kit de présentation FR/EN](https://github.com/SKORPION1200/kom-5a/blob/main/media/press-kit.md) |
 | Utiliser la plateforme / Use the platform | [Site officiel](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=share_guide) |

@@ -2,9 +2,11 @@
 
 KOM-5A brings product and service discovery, publishing and community interaction together. You can start on the [web](https://kom-5a.com/) or use the [iOS](https://apps.apple.com/ch/app/kom-5a/id6756894425) or [Android](https://play.google.com/store/apps/details?id=com.kom5a.mobile) app.
 
-## 1. Explore
+## 1. Start with the public welcome page
 
-Open [Explore](https://kom-5a.com/explore) to browse public content. A listing or publication can help you learn what is offered and who is behind it. Check the details and the publisher's profile before contacting someone or making a decision.
+Open the [official welcome page](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=getting_started) to understand the platform and choose web, iOS or Android. Follow the [product tour](product-tour.md) for a short explanation of publishing, discovery and contact.
+
+When you want to browse publications, choose Explore from the welcome page. A listing or publication can help you learn what is offered and who is behind it. Check the details and the publisher's profile before contacting someone or making a decision.
 
 ## 2. Join and participate
 
