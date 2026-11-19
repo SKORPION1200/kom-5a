@@ -1,5 +1,7 @@
 # KOM-5A
 
+[English](README.md) · [Français](README.fr.md)
+
 ![KOM-5A — Products, services and people](assets/cover.svg)
 
 **Discover products, services and the people behind them.**
@@ -18,6 +20,10 @@ KOM-5A is a platform for publishing, product and service discovery, professional
 | Learn how K5A works | Read [K5A explained](docs/k5a.md) and the [current service terms](https://kom-5a.com/service-terms?lang=en) |
 
 For a short walkthrough, see [Getting started](docs/getting-started.md). If you publish, our [practical listing guide](docs/listing-guide.md) can help you describe a product or service clearly.
+
+## Apps and media
+
+Find the official web, iOS and Android entry points in [Apps and official links](docs/apps.md). For an article or a presentation about KOM-5A, browse the [image gallery](media/README.md), the [French and English presentation kit](media/press-kit.md), and the [welcome email examples](campaigns/welcome/README.md).
 
 ## About this repository
 
