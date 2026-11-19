@@ -1,2 +1,43 @@
-# kom-5a
-KOM-5A public project documentation: discover products, services and the people behind them.
+# KOM-5A
+
+![KOM-5A — Products, services and people](assets/cover.svg)
+
+**Discover products, services and the people behind them.**
+
+KOM-5A is a platform for publishing, product and service discovery, professional visibility and community interaction. People can explore on the web and continue on iOS or Android. Features depend on the account, location, eligibility and applicable terms.
+
+[Explore KOM-5A](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=project_readme) · [About the platform](https://kom-5a.com/about) · [iOS](https://apps.apple.com/ch/app/kom-5a/id6756894425) · [Android](https://play.google.com/store/apps/details?id=com.kom5a.mobile)
+
+## What you can do
+
+| Goal | Start here |
+| --- | --- |
+| Discover products, services and public posts | [Explore on the web](https://kom-5a.com/explore) |
+| Learn about a creator or business | Open a listing and view its profile in KOM-5A |
+| Present your own work | [Join KOM-5A](https://kom-5a.com/register) and check the publishing options available to your account |
+| Learn how K5A works | Read [K5A explained](docs/k5a.md) and the [current service terms](https://kom-5a.com/service-terms?lang=en) |
+
+For a short walkthrough, see [Getting started](docs/getting-started.md). If you publish, our [practical listing guide](docs/listing-guide.md) can help you describe a product or service clearly.
+
+## About this repository
+
+This is KOM-5A's **public project documentation**. It gives people a clear entry point to the platform, explains the boundaries of K5A and provides a place to suggest corrections to these documents. It does not contain the production application, user data or internal planning material.
+
+The [official website](https://kom-5a.com/) and the terms shown in the relevant service flow are authoritative for the current product, availability and any offer. This repository is informational and may lag behind a live change.
+
+## Trust and support
+
+- K5A is an internal service and participation unit. It is not redeemable for cash, and KOM-5A does not promise financial returns. [Read the explanation](docs/k5a.md).
+- Paid visibility features provide the service described at the point of order; they do not guarantee views, customers or revenue. [Read the service terms](https://kom-5a.com/service-terms?lang=en).
+- For account, payment or personal-data questions, use the [official contact page](https://kom-5a.com/contact). Do not post private details in a public GitHub issue.
+- To report a security vulnerability, follow [SECURITY.md](SECURITY.md).
+
+Found an error in these documents? See [Contributing](CONTRIBUTING.md).
+
+## Official sources
+
+[Website](https://kom-5a.com/) · [About](https://kom-5a.com/about) · [Terms](https://kom-5a.com/terms) · [Privacy](https://kom-5a.com/privacy) · [Service terms](https://kom-5a.com/service-terms?lang=en)
+
+---
+
+© 2026 KOM-5A. Public documentation; no licence to reuse the application code or brand assets is granted here.
