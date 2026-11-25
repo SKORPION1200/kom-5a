@@ -14,7 +14,7 @@ KOM-5A connects publishing, discovery and community activity. Eligible actions c
 
 KOM-5A brings this loop under one roof: participation, a visible K5A history and services that give those units a defined use.
 
-K5A may also be transferred between users where that feature is available. A Boost describes placement, without guaranteeing views, contacts or sales. [Read the current service terms](https://kom-5a.com/service-terms?lang=en).
+K5A may also be transferred between users where that feature is available. A Boost describes placement, without guaranteeing views, contacts or sales. Before activating a K5A service, review its valid quote, cost, duration and terms; a quote may expire, and eligibility or capacity can prevent activation. [Read the current service terms](https://kom-5a.com/service-terms?lang=en).
 
 ## What “activity mining” means here
 
