@@ -4,11 +4,11 @@
 
 ![KOM-5A — Products, services and people](assets/cover.svg)
 
-**Present your products and services. Discover the people behind what you find.**
+**An offer. The person behind it. A way to connect. One journey.**
 
-KOM-5A gives creators, independent professionals and small businesses a place to present an offer with images and practical details, while visitors can discover publications, view their creators and use the contact options available. The platform combines publishing, discovery and community interaction on the web, iOS and Android. Features depend on the account, location, eligibility and applicable terms.
+A product or service deserves more than a photo. KOM-5A connects the steps that help people understand an offer and choose what to do next: publish with useful details, discover publications, view the creator's profile and use an available contact option. We built this journey for creators, independent professionals, small businesses and visitors across the web, iOS and Android. Features depend on the account, location, eligibility and applicable terms.
 
-[Discover the platform](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=project_readme) · [Follow the product tour](docs/product-tour.md) · [Partnerships and project review](docs/partners.md)
+[Discover the platform](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=project_readme) · [Join KOM-5A](https://kom-5a.com/register) · [Follow the product tour](docs/product-tour.md) · [Partnerships and project review](docs/partners.md)
 
 [Watch the current web walkthrough — 65 seconds](docs/demo.md)
 
