@@ -14,7 +14,7 @@ KOM-5A relie publication, découverte et activité de la communauté. Certaines 
 
 KOM-5A réunit cette boucle sous un même toit : la participation, un historique K5A visible et des services qui donnent un usage défini à ces unités.
 
-Les K5A peuvent aussi être transférés entre utilisateurs lorsque cette fonction est disponible. Un Boost décrit un placement, sans garantir de vues, de contacts ou de ventes. [Consultez les conditions des services](https://kom-5a.com/service-terms?lang=en).
+Les K5A peuvent aussi être transférés entre utilisateurs lorsque cette fonction est disponible. Un Boost décrit un placement, sans garantir de vues, de contacts ou de ventes. Avant d'activer un service K5A, vérifiez le devis valide, son coût, sa durée et ses conditions ; un devis peut expirer et l'éligibilité ou la capacité peuvent empêcher l'activation. [Consultez les conditions des services](https://kom-5a.com/service-terms?lang=en).
 
 ## Que signifie « minage d'activité » ici ?
 
