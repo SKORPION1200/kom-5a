@@ -14,6 +14,12 @@ A product or service deserves more than a photo. KOM-5A connects the steps that 
 
 [iOS](https://apps.apple.com/ch/app/kom-5a/id6756894425) · [Android](https://play.google.com/store/apps/details?id=com.kom5a.mobile) · [About KOM-5A](https://kom-5a.com/about)
 
+## K5A Zone: participation with a purpose
+
+Eligible activity can automatically add K5A to an internal balance. In the current private test, the K5A Zone shows that balance and the activity behind it where available. K5A can then be used for selected platform services, including Publication Boost when eligible. **Take part → track K5A → choose a service.**
+
+[Explore K5A activity rewards](docs/k5a.md) · [Join KOM-5A](https://kom-5a.com/register)
+
 ## A simple starting point
 
 | You want to… | What to try |
