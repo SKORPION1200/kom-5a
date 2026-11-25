@@ -2,7 +2,7 @@
 
 [Visuels et captures / Images and screenshots](README.md) · [Français](../README.fr.md) · [English](../README.md)
 
-Textes de présentation pour les publications et articles consacrés à KOM-5A. Relecture des sources publiques : **19 novembre 2026**. Les caractéristiques et conditions affichées dans le service restent la référence pour l'utilisation du produit.
+Textes de présentation pour les publications et articles consacrés à KOM-5A. Relecture des sources publiques : **25 novembre 2026**. Les caractéristiques et conditions affichées dans le service restent la référence pour l'utilisation du produit.
 
 ## Français
 
@@ -16,7 +16,7 @@ KOM-5A est une plateforme de découverte et de publication pour les produits, le
 
 [Découvrir la plateforme](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=media_kit&utm_content=fr_overview)
 
-### Trois textes courts
+### Quatre textes courts
 
 **Découverte**
 
@@ -36,6 +36,12 @@ Votre prochaine découverte peut commencer sur le Web et se poursuivre sur mobil
 
 [Retrouver les applications](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=media_kit&utm_content=fr_mobile)
 
+**K5A Zone — participation**
+
+Votre activité admissible peut alimenter un solde K5A interne. Suivez votre participation dans la K5A Zone lorsqu'elle est accessible, puis explorez les services accessibles à votre compte, dont Publication Boost selon les conditions en vigueur. L'accès dépend du compte et aucun résultat commercial n'est garanti.
+
+[Comprendre K5A](../docs/k5a.fr.md) · [Rejoindre KOM-5A](https://kom-5a.com/register)
+
 ## English
 
 ### Short tagline
@@ -48,7 +54,7 @@ KOM-5A brings product and service discovery together with publishing, public pro
 
 [Explore the platform](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=media_kit&utm_content=en_overview)
 
-### Three short captions
+### Four short captions
 
 **Discovery**
 
@@ -67,6 +73,12 @@ Give your product or service a clear introduction, useful images and practical d
 Start your next discovery on the web and continue on mobile. Explore products, services and community profiles with KOM-5A on iOS and Android.
 
 [Find the apps](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=media_kit&utm_content=en_mobile)
+
+**K5A Zone — participation**
+
+Eligible activity can add to an internal K5A balance. Follow your participation in the K5A Zone when available, then explore selected services these units can activate, including Publication Boost under the current terms. Access depends on the account, and commercial results are not guaranteed.
+
+[Understand K5A](../docs/k5a.md) · [Join KOM-5A](https://kom-5a.com/register)
 
 ## Liens officiels / Official links
 

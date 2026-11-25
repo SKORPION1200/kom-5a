@@ -14,6 +14,12 @@ Un produit ou un service mérite plus qu'une photo. KOM-5A relie les étapes qui
 
 [iOS](https://apps.apple.com/ch/app/kom-5a/id6756894425) · [Android](https://play.google.com/store/apps/details?id=com.kom5a.mobile) · [À propos de KOM-5A](https://kom-5a.com/about)
 
+## K5A Zone : votre participation a une suite
+
+Une activité admissible peut ajouter automatiquement des K5A à un solde interne. Dans le test privé actuel, la K5A Zone permet de suivre ce solde et l'activité enregistrée lorsque la fonction est accessible. Les K5A peuvent ensuite servir à des services définis, dont Publication Boost pour les comptes admissibles. **Participer → suivre ses K5A → choisir un service.**
+
+[Découvrir les récompenses d'activité K5A](docs/k5a.fr.md) · [Rejoindre KOM-5A](https://kom-5a.com/register)
+
 ## Un point de départ concret
 
 | Votre objectif | Ce que vous pouvez essayer |
@@ -56,7 +62,7 @@ Une erreur dans la documentation ? Consultez le [guide de contribution](CONTRIBU
 
 [Site](https://kom-5a.com/) · [À propos](https://kom-5a.com/about) · [Conditions](https://kom-5a.com/terms) · [Confidentialité](https://kom-5a.com/privacy) · [Conditions des services](https://kom-5a.com/service-terms?lang=en)
 
-Relecture des sources : 19 novembre 2026. Les liens vers les boutiques permettent de consulter les informations propres à chaque plateforme.
+Relecture des sources : 25 novembre 2026. Les liens vers les boutiques permettent de consulter les informations propres à chaque plateforme.
 
 ---
 
