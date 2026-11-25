@@ -1,17 +1,31 @@
-# K5A explained
+# K5A Zone — participation with a purpose
 
-K5A is an **internal service and participation unit** in KOM-5A. Depending on the features available to an account, it may be earned through eligible activity, transferred between users and used to access selected services inside the platform.
+[Français](k5a.fr.md) · English
 
-K5A is **not redeemable for cash**. There is no guaranteed exchange rate with euros, Swiss francs or another currency. KOM-5A does not market K5A as an investment and does not promise interest, appreciation or financial returns.
+**Take part → track K5A → choose a service.**
 
-## How a K5A service works
+KOM-5A connects publishing, discovery and community activity. Eligible actions can automatically add K5A to an internal account balance. In the current private-test K5A Zone, eligible accounts can see their balance and activity history. The private-test history includes examples of daily participation and eligible interaction rewards. Availability and reward rules depend on the account, location, eligibility and current service conditions.
 
-1. Open an eligible service inside KOM-5A.
-2. Review the current service details and the K5A cost shown in the valid quote.
-3. Confirm only if you understand the service, duration and applicable terms.
+## One connected loop
 
-Availability, eligibility and cost can change. A quote can expire, and a service may be unavailable if a requirement is not met. A visibility service describes placement or rotation; it does not guarantee a number of views, contacts or sales.
+1. **Participate.** Use available KOM-5A features; only eligible activity earns K5A.
+2. **Track.** When enabled, check the K5A Zone for your internal balance and recorded activity.
+3. **Choose.** Explore selected services available to your account. Publication Boost is one example: it places an eligible publication in KOM-5A's additional visibility rotation, under the valid quote and terms.
 
-For the current rules and any offer-specific conditions, use the [KOM-5A Service Terms](https://kom-5a.com/service-terms?lang=en) and the information shown in the relevant service flow. This page is a plain-language overview, not an offer or a replacement for those terms.
+KOM-5A brings this loop under one roof: participation, a visible K5A history and services that give those units a defined use.
 
-KOM-5A does not offer K5A for starring, following or promoting this GitHub repository. Treat claims of a GitHub reward or exchange as suspicious and [contact KOM-5A](https://kom-5a.com/contact) through the official website.
+K5A may also be transferred between users where that feature is available. A Boost describes placement, without guaranteeing views, contacts or sales. [Read the current service terms](https://kom-5a.com/service-terms?lang=en).
+
+## What “activity mining” means here
+
+This phrase describes K5A credited by KOM-5A's activity rules. Your device does not mine cryptocurrency, and earning internal K5A does not currently mint or transfer an ERC-20 token to your wallet.
+
+## Blockchain test, clearly labeled
+
+KOM-5A has a [verified ERC-20 test contract](https://sourcify.dev/server/v2/contract/80002/0x382c77b6646e7aef5650f0465b7b8e71697dcb79?fields=sources,creationMatch,runtimeMatch) on [Polygon Amoy](https://docs.polygon.technology/tools/dApp-development/common-tools/remix/). The integration path has been prepared, but synchronization between the internal K5A balance and this test contract is **not active as of 25 November 2026**. The test contract allows owner-controlled minting and has no coded supply cap. Its token supply does not currently represent account balances one-to-one. Source verification does not constitute a security audit.
+
+## Start with the product
+
+[Join KOM-5A](https://kom-5a.com/register) · [Explore the platform](https://kom-5a.com/) · [Follow the product tour](product-tour.md)
+
+K5A is an internal service and participation unit. It is not redeemable for cash, has no guaranteed exchange rate and does not promise financial returns. KOM-5A does not award K5A for starring or following this GitHub repository. For current availability and rules, use the [official overview](https://kom-5a.com/about) and [service terms](https://kom-5a.com/service-terms?lang=en).
