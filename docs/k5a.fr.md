@@ -26,7 +26,7 @@ KOM-5A dispose d'un [contrat ERC-20 de test au code vérifié](https://sourcify.
 
 ## Preuves et vérification
 
-[Consultez les sources datées, les observations du test privé et les contrôles reproductibles](k5a-evidence.fr.md).
+[Consultez les sources publiques datées, les limites des preuves du test privé et les contrôles reproductibles](k5a-evidence.fr.md).
 
 ## Commencer par le produit
 
