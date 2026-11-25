@@ -18,7 +18,7 @@ Un produit ou un service mérite plus qu'une photo. KOM-5A relie les étapes qui
 
 Une activité admissible peut ajouter automatiquement des K5A à un solde interne. Dans le test privé actuel, la K5A Zone permet de suivre ce solde et l'activité enregistrée lorsque la fonction est accessible. Les K5A peuvent ensuite servir à des services définis, dont Publication Boost pour les comptes admissibles. **Participer → suivre ses K5A → choisir un service.**
 
-[Découvrir les récompenses d'activité K5A](docs/k5a.fr.md) · [Rejoindre KOM-5A](https://kom-5a.com/register)
+[Découvrir les récompenses d'activité K5A](docs/k5a.fr.md) · [Voir les preuves datées](docs/k5a-evidence.fr.md) · [Rejoindre KOM-5A](https://kom-5a.com/register)
 
 ## Un point de départ concret
 

@@ -18,7 +18,7 @@ A product or service deserves more than a photo. KOM-5A connects the steps that 
 
 Eligible activity can automatically add K5A to an internal balance. In the current private test, the K5A Zone shows that balance and the activity behind it where available. K5A can then be used for selected platform services, including Publication Boost when eligible. **Take part → track K5A → choose a service.**
 
-[Explore K5A activity rewards](docs/k5a.md) · [Join KOM-5A](https://kom-5a.com/register)
+[Explore K5A activity rewards](docs/k5a.md) · [Review dated evidence](docs/k5a-evidence.md) · [Join KOM-5A](https://kom-5a.com/register)
 
 ## A simple starting point
 

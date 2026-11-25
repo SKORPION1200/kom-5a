@@ -24,6 +24,10 @@ Cette expression désigne les K5A attribués selon les règles d'activité de KO
 
 KOM-5A dispose d'un [contrat ERC-20 de test au code vérifié](https://sourcify.dev/server/v2/contract/80002/0x382c77b6646e7aef5650f0465b7b8e71697dcb79?fields=sources,creationMatch,runtimeMatch) sur [Polygon Amoy](https://docs.polygon.technology/tools/dApp-development/common-tools/remix/). Le parcours d'intégration a été préparé, mais la synchronisation entre les soldes K5A internes et ce contrat de test **n'est pas active au 25 novembre 2026**. Le contrat permet au propriétaire de créer des jetons et n'impose pas de plafond d'émission. Son offre actuelle ne représente pas les soldes des comptes à raison d'un jeton pour un K5A. La vérification du code ne constitue pas un audit de sécurité.
 
+## Preuves et vérification
+
+[Consultez les sources publiques datées, les limites des preuves du test privé et les contrôles reproductibles](k5a-evidence.fr.md).
+
 ## Commencer par le produit
 
 [Rejoindre KOM-5A](https://kom-5a.com/register) · [Découvrir la plateforme](https://kom-5a.com/) · [Suivre le parcours produit](product-tour.md)

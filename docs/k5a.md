@@ -24,6 +24,10 @@ This phrase describes K5A credited by KOM-5A's activity rules. Your device does 
 
 KOM-5A has a [verified ERC-20 test contract](https://sourcify.dev/server/v2/contract/80002/0x382c77b6646e7aef5650f0465b7b8e71697dcb79?fields=sources,creationMatch,runtimeMatch) on [Polygon Amoy](https://docs.polygon.technology/tools/dApp-development/common-tools/remix/). The integration path has been prepared, but synchronization between the internal K5A balance and this test contract is **not active as of 25 November 2026**. The test contract allows owner-controlled minting and has no coded supply cap. Its token supply does not currently represent account balances one-to-one. Source verification does not constitute a security audit.
 
+## Evidence and verification
+
+[Review the dated public sources, private-test evidence limits and reproducible checks](k5a-evidence.md).
+
 ## Start with the product
 
 [Join KOM-5A](https://kom-5a.com/register) · [Explore the platform](https://kom-5a.com/) · [Follow the product tour](product-tour.md)
