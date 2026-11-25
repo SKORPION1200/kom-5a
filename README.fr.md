@@ -4,11 +4,11 @@
 
 ![KOM-5A — Produits, services et communauté](assets/cover.svg)
 
-**Présentez vos produits et services. Découvrez les personnes derrière chaque offre.**
+**Une offre. La personne qui la porte. Une possibilité d'échanger. Un seul parcours.**
 
-KOM-5A donne aux créateurs, aux professionnels indépendants et aux petites entreprises un espace pour présenter une offre avec des images et des informations utiles. Les visiteurs peuvent découvrir les publications, consulter le profil de leur créateur et utiliser les moyens de contact proposés. La plateforme réunit publication, découverte et échanges sur le Web, iOS et Android. Les fonctionnalités accessibles dépendent notamment du compte, du pays, de l'éligibilité et des conditions applicables.
+Un produit ou un service mérite plus qu'une photo. KOM-5A relie les étapes qui permettent de comprendre une offre et de choisir la suite : publier avec des détails utiles, découvrir des publications, consulter le profil de leur créateur et utiliser un moyen de contact disponible. Nous avons construit ce parcours pour les créateurs, les professionnels indépendants, les petites entreprises et les visiteurs, sur le Web, iOS et Android. Les fonctionnalités accessibles dépendent notamment du compte, du pays, de l'éligibilité et des conditions applicables.
 
-[Découvrir la plateforme](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=project_readme_fr) · [Suivre le parcours produit](docs/product-tour.md) · [Partenariats et présentation du projet](docs/partners.md)
+[Découvrir la plateforme](https://kom-5a.com/?utm_source=github&utm_medium=referral&utm_campaign=project_readme_fr) · [Rejoindre KOM-5A](https://kom-5a.com/register) · [Suivre le parcours produit](docs/product-tour.md) · [Partenariats et présentation du projet](docs/partners.md)
 
 [Voir le parcours Web actuel — 65 secondes](docs/demo.md)
 
